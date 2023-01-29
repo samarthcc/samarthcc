@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samarthcc
-- 👀 I’m interested in Java based application , fell in love with python
+- 👀 I’m interested in Java based application exploring python
 - 🌱 I’m currently learning DSA and some commpetive programming
 
 <!---
